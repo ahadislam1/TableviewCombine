@@ -13,6 +13,8 @@
 		0BEFBF7F245E0C1D00222AEE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BEFBF7D245E0C1D00222AEE /* Main.storyboard */; };
 		0BEFBF81245E0C2100222AEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BEFBF80245E0C2100222AEE /* Assets.xcassets */; };
 		0BEFBF84245E0C2100222AEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BEFBF82245E0C2100222AEE /* LaunchScreen.storyboard */; };
+		0BEFBF8C245E0C6400222AEE /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BEFBF8B245E0C6400222AEE /* Story.swift */; };
+		0BEFBF8E245E0C8900222AEE /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BEFBF8D245E0C8900222AEE /* API.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		0BEFBF80245E0C2100222AEE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0BEFBF83245E0C2100222AEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0BEFBF85245E0C2100222AEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BEFBF8B245E0C6400222AEE /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
+		0BEFBF8D245E0C8900222AEE /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				0BEFBF77245E0C1D00222AEE /* AppDelegate.swift */,
 				0BEFBF79245E0C1D00222AEE /* SceneDelegate.swift */,
 				0BEFBF7B245E0C1D00222AEE /* ViewController.swift */,
+				0BEFBF8D245E0C8900222AEE /* API.swift */,
+				0BEFBF8B245E0C6400222AEE /* Story.swift */,
 				0BEFBF7D245E0C1D00222AEE /* Main.storyboard */,
 				0BEFBF80245E0C2100222AEE /* Assets.xcassets */,
 				0BEFBF82245E0C2100222AEE /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				0BEFBF7C245E0C1D00222AEE /* ViewController.swift in Sources */,
 				0BEFBF78245E0C1D00222AEE /* AppDelegate.swift in Sources */,
 				0BEFBF7A245E0C1D00222AEE /* SceneDelegate.swift in Sources */,
+				0BEFBF8C245E0C6400222AEE /* Story.swift in Sources */,
+				0BEFBF8E245E0C8900222AEE /* API.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
