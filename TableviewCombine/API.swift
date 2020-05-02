@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import Combine
 
 struct API {
     /// API Errors.
